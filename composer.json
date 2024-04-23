@@ -15,8 +15,6 @@
         "silverstripe/framework": ">=3.5"
     },
 	"extra": {
-		"branch-alias": {
-			"dev-master": "3.2.x-dev"
-		}
+        "installer-name": "aris"
 	}
 }
